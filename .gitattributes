@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+ std::cout << "Hello World!\n";
+ std::cout << "Git\n";
